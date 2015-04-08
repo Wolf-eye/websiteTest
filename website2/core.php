@@ -5,7 +5,7 @@ $GLOBALS['config'] = array(
         'db_host' => '127.0.0.1',
         'db_username' => 'root',
         'db_password' => '',
-        'database' => 'prodatabase'
+        'database' => 'enter database'
         ),
     'remember' => array(
         'cookie_name' => 'hash',
