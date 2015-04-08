@@ -1,0 +1,63 @@
+
+
+body{
+    background-image: url(pics/mPower.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+        
+}
+.mainFooter{
+    font-family: "Papyrus", sans-serif;
+    color: gray;
+    height:50px;
+    position: relative;
+    top: 400px;
+    left: 70%;
+}
+.social{
+    position: relative;
+    top: 480px;
+    left: 80%;
+    height:90px;
+}
+.btn{
+  font-family: "Papyrus", sans-serif;
+  font-size: 1.2em;
+  letter-spacing:1px;
+  position: relative;
+  left: 85%;
+  text-decoration:none;
+  color:gray;
+  display: block;
+  top: 260px;
+}
+
+a:hover {
+  color: white;
+  background-color:rgba(0,0,0,0.0);  
+}
+a{
+    color: gray;
+}
+p{
+    color: gray;
+}
+.logReg{
+    font-family: "Papyrus", sans-serif;
+    font-size: 1.2em;
+    position: relative;
+    bottom: 250px;
+    left: 30%;
+}
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27.02.2015, 15:49:24
+    Author     : Kafaliev
+*/
+
